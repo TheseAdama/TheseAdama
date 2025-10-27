@@ -11,8 +11,8 @@ Ce dépôt rassemble les codes développés dans le cadre de mon **travail de th
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheseAdama&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheseAdama&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheseAdama&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheseAdama&theme=highcontrast" />
 </p>
 
 N'hésitez pas à me contacter pour toute suggestion, question ou autres à l'une des adresses suivantes : 
