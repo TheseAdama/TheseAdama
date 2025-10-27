@@ -8,7 +8,7 @@ Ce dépôt rassemble les codes développés dans le cadre de mon **travail de th
 
 <p align="center">
   <img width="260" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Academic Icon"/><br>
-  <em>Codes et expériences issus de mes travaux de recherche doctorale.</em>
+  <em>DOE for computer code calibration.</em>
 </p>
 
 <p align="center">
