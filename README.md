@@ -7,7 +7,7 @@ Ce dépôt rassemble les codes développés dans le cadre de mon **travail de th
 </p>
 
 <p align="center">
-  <img width="200" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Academic Icon"/><br>
+  <img width="220" src="https://cdn-icons-png.flaticon.com/512/4149/4149675.png" alt="AI/Research Icon"/><br>
   <em> DOPE & DONE | DOE optimization | GP emulation </em>
 </p>
 
