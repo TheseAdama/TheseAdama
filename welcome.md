@@ -3,11 +3,12 @@
 Ce dépôt rassemble les codes développés dans le cadre de mon **travail de thèse**.  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Vues%20du%20profil&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Nombre%20de%20vues&color=0A66C2&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img width="250" src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" alt="Data Science Icon"/>
+  <img width="260" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Academic Icon"/><br>
+  <em>Codes et expériences issus de mes travaux de recherche doctorale.</em>
 </p>
 
 <p align="center">
