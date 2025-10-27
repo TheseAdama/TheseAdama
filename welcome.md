@@ -2,15 +2,13 @@
 
 Ce dépôt rassemble les codes développés dans le cadre de mon **travail de thèse**.  
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Views&color=grey&style=flat-square" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Vues%20du%20profil&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img width="220" src="https://cdn-icons-png.flaticon.com/512/1829/1829520.png" alt="Brain Icon"/><br>
+  <img width="250" src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png" alt="Data Science Icon"/>
 </p>
-
-
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheseAdama&show_icons=true&theme=highcontrast" />
