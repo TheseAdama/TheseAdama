@@ -1,17 +1,11 @@
-## Hi there 👋
-
-<!--
-**TheseAdama/TheseAdama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## Bienvenue sur mon dépôt GitHub !
+## Bienvenue sur ce dépôt GitHub 👋!
 
 Ce dépôt rassemble les codes développés dans le cadre de mon **travail de thèse**.  
-N'hésitez pas à me contacter pour toute suggestion, question ou autres à l'une des adresses suivantes :  
-[<img src="https://img.shields.io/badge/Gmail-theseadama2022@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>](mailto:theseadama2022@gmail.com)[gmail]: mailto:theseadama2022@gmail.com
+N'hésitez pas à me contacter pour toute suggestion, question ou autres à l'une des adresses suivantes : 
 
-[<img src="https://img.shields.io/badge/Gmail-adambarry207@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>](mailto:adambarry207@gmail.com)[gmail]: mailto:adambarry207@gmail.com
+[<img src="https://img.shields.io/badge/Gmail-theseadama2022@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>][gmail]:(mailto:theseadama2022@gmail.com)
 
+[<img src="https://img.shields.io/badge/Gmail-adambarry207@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>][gmail]:(mailto:adambarry207@gmail.com)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Profile%20views&color=0e75b6&style=flat" alt="TheseAdama" />
 </p>
