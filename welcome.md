@@ -12,6 +12,11 @@ Ce dépôt rassemble les codes développés dans le cadre de mon **travail de th
 </p>
 
 <p align="center">
+  <img width="250" src="https://cdn-icons-png.flaticon.com/512/452/452.png" alt="Black Box Icon"/><br>
+  <em>Codes et expériences issus de mes travaux de thèse.</em>
+</p>
+
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheseAdama&show_icons=true&theme=highcontrast" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheseAdama&theme=highcontrast" />
 </p>
