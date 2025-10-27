@@ -2,14 +2,14 @@
 
 Ce dépôt rassemble les codes développés dans le cadre de mon **travail de thèse**.  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile views"/>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Views&color=grey&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img width="270" src="https://cdn-icons-png.flaticon.com/512/942/942748.png" alt="Data Center Icon"/><br>
-  <b>Data • Research • Innovation</b>
+  <img width="220" src="https://cdn-icons-png.flaticon.com/512/1829/1829520.png" alt="Brain Icon"/><br>
 </p>
+
 
 
 <p align="center">
