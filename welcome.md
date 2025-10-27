@@ -7,13 +7,8 @@ Ce dépôt rassemble les codes développés dans le cadre de mon **travail de th
 </p>
 
 <p align="center">
-  <img width="260" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Academic Icon"/><br>
+  <img width="260" src="assets/gaussian-icon.png" alt="Gaussian Distribution Icon"/><br>
   <em> DOPE & DONE | DOE optimization | GP emulation </em>
-</p>
-
-<p align="center">
-  <img width="250" src="https://cdn-icons-png.flaticon.com/512/452/452.png" alt="Black Box Icon"/><br>
-  <em>Codes et expériences issus de mes travaux de thèse.</em>
 </p>
 
 <p align="center">
