@@ -2,13 +2,15 @@
 
 Ce dépôt rassemble les codes développés dans le cadre de mon **travail de thèse**.  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Profile%20views&color=0e75b6&style=flat" alt="TheseAdama" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheseAdama&label=Profile%20Views&color=0078D7&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img width="270" src="https://www.kindpng.com/picc/m/296-2961034_master-setup-data-center-hd-png-download.png"/><br>
+  <img width="280" src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="Research Icon"/><br>
+  <em>Exploring knowledge through data and science 📊</em>
 </p>
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheseAdama&show_icons=true&theme=highcontrast" />
